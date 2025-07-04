@@ -2,12 +2,14 @@
 </p>
 
 <p align="center">
-    <a href="./README.md"><b>English</b></a> •
-    <a href="./README_zh-CN.md"><b>中文</b></a>
+    <a href="./gomobile-android-ios-setup.md"><b>English</b></a> •
+    <a href="./gomobile-android-ios-setup-cn.md"><b>中文</b></a>
 </p>
 
 </p>
+
 ## 环境准备
+
 ### 1.Go语言环境以及gomobile环境搭建
 
 **1. 安装Go语言环境**
